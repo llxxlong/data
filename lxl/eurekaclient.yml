@@ -3,7 +3,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:10087/eureka/
 server:
-  port: 9899
+  port: 10088
 zipkin:
   #base-url: http://127.0.0.1:9411/  #zipkin server的请求地址
   sender:
